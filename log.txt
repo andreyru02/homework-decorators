@@ -1,0 +1,250 @@
+28.05.2021 - 15:37:54 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Aruba, https://en.wikipedia.org/wiki/Aruba
+28.05.2021 - 15:37:55 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Afghanistan, https://en.wikipedia.org/wiki/Afghanistan
+28.05.2021 - 15:37:56 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Angola, https://en.wikipedia.org/wiki/Angola
+28.05.2021 - 15:37:57 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Anguilla, https://en.wikipedia.org/wiki/Anguilla
+28.05.2021 - 15:37:58 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Åland Islands, https://en.wikipedia.org/wiki/Åland Islands
+28.05.2021 - 15:37:59 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Albania, https://en.wikipedia.org/wiki/Albania
+28.05.2021 - 15:38:00 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Andorra, https://en.wikipedia.org/wiki/Andorra
+28.05.2021 - 15:38:01 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: United Arab Emirates, https://en.wikipedia.org/wiki/United Arab Emirates
+28.05.2021 - 15:38:02 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Argentina, https://en.wikipedia.org/wiki/Argentina
+28.05.2021 - 15:38:04 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Armenia, https://en.wikipedia.org/wiki/Armenia
+28.05.2021 - 15:38:05 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: American Samoa, https://en.wikipedia.org/wiki/American Samoa
+28.05.2021 - 15:38:06 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Antarctica, https://en.wikipedia.org/wiki/Antarctica
+28.05.2021 - 15:38:07 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: French Southern and Antarctic Lands, https://en.wikipedia.org/wiki/French Southern and Antarctic Lands
+28.05.2021 - 15:38:08 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Antigua and Barbuda, https://en.wikipedia.org/wiki/Antigua and Barbuda
+28.05.2021 - 15:38:09 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Australia, https://en.wikipedia.org/wiki/Australia
+28.05.2021 - 15:38:10 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Austria, https://en.wikipedia.org/wiki/Austria
+28.05.2021 - 15:38:11 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Azerbaijan, https://en.wikipedia.org/wiki/Azerbaijan
+28.05.2021 - 15:38:12 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Burundi, https://en.wikipedia.org/wiki/Burundi
+28.05.2021 - 15:38:13 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Belgium, https://en.wikipedia.org/wiki/Belgium
+28.05.2021 - 15:38:14 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Benin, https://en.wikipedia.org/wiki/Benin
+28.05.2021 - 15:38:15 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Burkina Faso, https://en.wikipedia.org/wiki/Burkina Faso
+28.05.2021 - 15:38:16 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Bangladesh, https://en.wikipedia.org/wiki/Bangladesh
+28.05.2021 - 15:38:17 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Bulgaria, https://en.wikipedia.org/wiki/Bulgaria
+28.05.2021 - 15:38:18 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Bahrain, https://en.wikipedia.org/wiki/Bahrain
+28.05.2021 - 15:38:19 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Bahamas, https://en.wikipedia.org/wiki/Bahamas
+28.05.2021 - 15:38:20 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Bosnia and Herzegovina, https://en.wikipedia.org/wiki/Bosnia and Herzegovina
+28.05.2021 - 15:38:21 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Saint Barthélemy, https://en.wikipedia.org/wiki/Saint Barthélemy
+28.05.2021 - 15:38:22 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Saint Helena, Ascension and Tristan da Cunha, https://en.wikipedia.org/wiki/Saint Helena, Ascension and Tristan da Cunha
+28.05.2021 - 15:38:23 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Belarus, https://en.wikipedia.org/wiki/Belarus
+28.05.2021 - 15:38:24 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Belize, https://en.wikipedia.org/wiki/Belize
+28.05.2021 - 15:38:25 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Bermuda, https://en.wikipedia.org/wiki/Bermuda
+28.05.2021 - 15:38:26 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Bolivia, https://en.wikipedia.org/wiki/Bolivia
+28.05.2021 - 15:38:27 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Caribbean Netherlands, https://en.wikipedia.org/wiki/Caribbean Netherlands
+28.05.2021 - 15:38:28 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Brazil, https://en.wikipedia.org/wiki/Brazil
+28.05.2021 - 15:38:29 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Barbados, https://en.wikipedia.org/wiki/Barbados
+28.05.2021 - 15:38:30 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Brunei, https://en.wikipedia.org/wiki/Brunei
+28.05.2021 - 15:38:31 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Bhutan, https://en.wikipedia.org/wiki/Bhutan
+28.05.2021 - 15:38:32 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Bouvet Island, https://en.wikipedia.org/wiki/Bouvet Island
+28.05.2021 - 15:38:33 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Botswana, https://en.wikipedia.org/wiki/Botswana
+28.05.2021 - 15:38:34 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Central African Republic, https://en.wikipedia.org/wiki/Central African Republic
+28.05.2021 - 15:38:35 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Canada, https://en.wikipedia.org/wiki/Canada
+28.05.2021 - 15:38:36 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Cocos (Keeling) Islands, https://en.wikipedia.org/wiki/Cocos (Keeling) Islands
+28.05.2021 - 15:38:37 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Switzerland, https://en.wikipedia.org/wiki/Switzerland
+28.05.2021 - 15:38:38 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Chile, https://en.wikipedia.org/wiki/Chile
+28.05.2021 - 15:38:39 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: China, https://en.wikipedia.org/wiki/China
+28.05.2021 - 15:38:40 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Ivory Coast, https://en.wikipedia.org/wiki/Ivory Coast
+28.05.2021 - 15:38:41 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Cameroon, https://en.wikipedia.org/wiki/Cameroon
+28.05.2021 - 15:38:43 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: DR Congo, https://en.wikipedia.org/wiki/DR Congo
+28.05.2021 - 15:38:44 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Republic of the Congo, https://en.wikipedia.org/wiki/Republic of the Congo
+28.05.2021 - 15:38:45 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Cook Islands, https://en.wikipedia.org/wiki/Cook Islands
+28.05.2021 - 15:38:46 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Colombia, https://en.wikipedia.org/wiki/Colombia
+28.05.2021 - 15:38:47 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Comoros, https://en.wikipedia.org/wiki/Comoros
+28.05.2021 - 15:38:49 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Cape Verde, https://en.wikipedia.org/wiki/Cape Verde
+28.05.2021 - 15:38:50 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Costa Rica, https://en.wikipedia.org/wiki/Costa Rica
+28.05.2021 - 15:38:51 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Cuba, https://en.wikipedia.org/wiki/Cuba
+28.05.2021 - 15:38:51 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Curaçao, https://en.wikipedia.org/wiki/Curaçao
+28.05.2021 - 15:38:52 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Christmas Island, https://en.wikipedia.org/wiki/Christmas Island
+28.05.2021 - 15:38:54 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Cayman Islands, https://en.wikipedia.org/wiki/Cayman Islands
+28.05.2021 - 15:38:55 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Cyprus, https://en.wikipedia.org/wiki/Cyprus
+28.05.2021 - 15:38:56 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Czechia, https://en.wikipedia.org/wiki/Czechia
+28.05.2021 - 15:38:57 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Germany, https://en.wikipedia.org/wiki/Germany
+28.05.2021 - 15:38:58 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Djibouti, https://en.wikipedia.org/wiki/Djibouti
+28.05.2021 - 15:38:59 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Dominica, https://en.wikipedia.org/wiki/Dominica
+28.05.2021 - 15:39:00 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Denmark, https://en.wikipedia.org/wiki/Denmark
+28.05.2021 - 15:39:02 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Dominican Republic, https://en.wikipedia.org/wiki/Dominican Republic
+28.05.2021 - 15:39:03 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Algeria, https://en.wikipedia.org/wiki/Algeria
+28.05.2021 - 15:39:04 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Ecuador, https://en.wikipedia.org/wiki/Ecuador
+28.05.2021 - 15:39:05 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Egypt, https://en.wikipedia.org/wiki/Egypt
+28.05.2021 - 15:39:06 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Eritrea, https://en.wikipedia.org/wiki/Eritrea
+28.05.2021 - 15:39:07 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Western Sahara, https://en.wikipedia.org/wiki/Western Sahara
+28.05.2021 - 15:39:08 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Spain, https://en.wikipedia.org/wiki/Spain
+28.05.2021 - 15:39:09 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Estonia, https://en.wikipedia.org/wiki/Estonia
+28.05.2021 - 15:39:10 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Ethiopia, https://en.wikipedia.org/wiki/Ethiopia
+28.05.2021 - 15:39:12 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Finland, https://en.wikipedia.org/wiki/Finland
+28.05.2021 - 15:39:13 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Fiji, https://en.wikipedia.org/wiki/Fiji
+28.05.2021 - 15:39:14 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Falkland Islands, https://en.wikipedia.org/wiki/Falkland Islands
+28.05.2021 - 15:39:15 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: France, https://en.wikipedia.org/wiki/France
+28.05.2021 - 15:39:16 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Faroe Islands, https://en.wikipedia.org/wiki/Faroe Islands
+28.05.2021 - 15:39:17 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Micronesia, https://en.wikipedia.org/wiki/Micronesia
+28.05.2021 - 15:39:18 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Gabon, https://en.wikipedia.org/wiki/Gabon
+28.05.2021 - 15:39:19 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: United Kingdom, https://en.wikipedia.org/wiki/United Kingdom
+28.05.2021 - 15:39:20 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Georgia, https://en.wikipedia.org/wiki/Georgia
+28.05.2021 - 15:39:21 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Guernsey, https://en.wikipedia.org/wiki/Guernsey
+28.05.2021 - 15:39:22 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Ghana, https://en.wikipedia.org/wiki/Ghana
+28.05.2021 - 15:39:23 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Gibraltar, https://en.wikipedia.org/wiki/Gibraltar
+28.05.2021 - 15:39:24 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Guinea, https://en.wikipedia.org/wiki/Guinea
+28.05.2021 - 15:39:25 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Guadeloupe, https://en.wikipedia.org/wiki/Guadeloupe
+28.05.2021 - 15:39:26 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Gambia, https://en.wikipedia.org/wiki/Gambia
+28.05.2021 - 15:39:27 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Guinea-Bissau, https://en.wikipedia.org/wiki/Guinea-Bissau
+28.05.2021 - 15:39:28 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Equatorial Guinea, https://en.wikipedia.org/wiki/Equatorial Guinea
+28.05.2021 - 15:39:29 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Greece, https://en.wikipedia.org/wiki/Greece
+28.05.2021 - 15:39:30 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Grenada, https://en.wikipedia.org/wiki/Grenada
+28.05.2021 - 15:39:31 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Greenland, https://en.wikipedia.org/wiki/Greenland
+28.05.2021 - 15:39:32 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Guatemala, https://en.wikipedia.org/wiki/Guatemala
+28.05.2021 - 15:39:33 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: French Guiana, https://en.wikipedia.org/wiki/French Guiana
+28.05.2021 - 15:39:34 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Guam, https://en.wikipedia.org/wiki/Guam
+28.05.2021 - 15:39:35 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Guyana, https://en.wikipedia.org/wiki/Guyana
+28.05.2021 - 15:39:36 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Hong Kong, https://en.wikipedia.org/wiki/Hong Kong
+28.05.2021 - 15:39:37 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Heard Island and McDonald Islands, https://en.wikipedia.org/wiki/Heard Island and McDonald Islands
+28.05.2021 - 15:39:38 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Honduras, https://en.wikipedia.org/wiki/Honduras
+28.05.2021 - 15:39:39 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Croatia, https://en.wikipedia.org/wiki/Croatia
+28.05.2021 - 15:39:40 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Haiti, https://en.wikipedia.org/wiki/Haiti
+28.05.2021 - 15:39:42 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Hungary, https://en.wikipedia.org/wiki/Hungary
+28.05.2021 - 15:39:43 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Indonesia, https://en.wikipedia.org/wiki/Indonesia
+28.05.2021 - 15:39:44 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Isle of Man, https://en.wikipedia.org/wiki/Isle of Man
+28.05.2021 - 15:39:45 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: India, https://en.wikipedia.org/wiki/India
+28.05.2021 - 15:39:46 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: British Indian Ocean Territory, https://en.wikipedia.org/wiki/British Indian Ocean Territory
+28.05.2021 - 15:39:47 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Ireland, https://en.wikipedia.org/wiki/Ireland
+28.05.2021 - 15:39:48 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Iran, https://en.wikipedia.org/wiki/Iran
+28.05.2021 - 15:39:49 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Iraq, https://en.wikipedia.org/wiki/Iraq
+28.05.2021 - 15:39:50 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Iceland, https://en.wikipedia.org/wiki/Iceland
+28.05.2021 - 15:39:51 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Israel, https://en.wikipedia.org/wiki/Israel
+28.05.2021 - 15:39:52 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Italy, https://en.wikipedia.org/wiki/Italy
+28.05.2021 - 15:39:53 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Jamaica, https://en.wikipedia.org/wiki/Jamaica
+28.05.2021 - 15:39:54 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Jersey, https://en.wikipedia.org/wiki/Jersey
+28.05.2021 - 15:39:56 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Jordan, https://en.wikipedia.org/wiki/Jordan
+28.05.2021 - 15:39:57 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Japan, https://en.wikipedia.org/wiki/Japan
+28.05.2021 - 15:39:58 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Kazakhstan, https://en.wikipedia.org/wiki/Kazakhstan
+28.05.2021 - 15:39:59 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Kenya, https://en.wikipedia.org/wiki/Kenya
+28.05.2021 - 15:40:00 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Kyrgyzstan, https://en.wikipedia.org/wiki/Kyrgyzstan
+28.05.2021 - 15:40:01 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Cambodia, https://en.wikipedia.org/wiki/Cambodia
+28.05.2021 - 15:40:01 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Kiribati, https://en.wikipedia.org/wiki/Kiribati
+28.05.2021 - 15:40:02 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Saint Kitts and Nevis, https://en.wikipedia.org/wiki/Saint Kitts and Nevis
+28.05.2021 - 15:40:04 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: South Korea, https://en.wikipedia.org/wiki/South Korea
+28.05.2021 - 15:40:05 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Kosovo, https://en.wikipedia.org/wiki/Kosovo
+28.05.2021 - 15:40:06 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Kuwait, https://en.wikipedia.org/wiki/Kuwait
+28.05.2021 - 15:40:07 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Laos, https://en.wikipedia.org/wiki/Laos
+28.05.2021 - 15:40:09 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Lebanon, https://en.wikipedia.org/wiki/Lebanon
+28.05.2021 - 15:40:10 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Liberia, https://en.wikipedia.org/wiki/Liberia
+28.05.2021 - 15:40:11 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Libya, https://en.wikipedia.org/wiki/Libya
+28.05.2021 - 15:40:12 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Saint Lucia, https://en.wikipedia.org/wiki/Saint Lucia
+28.05.2021 - 15:40:13 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Liechtenstein, https://en.wikipedia.org/wiki/Liechtenstein
+28.05.2021 - 15:40:14 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Sri Lanka, https://en.wikipedia.org/wiki/Sri Lanka
+28.05.2021 - 15:40:15 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Lesotho, https://en.wikipedia.org/wiki/Lesotho
+28.05.2021 - 15:40:16 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Lithuania, https://en.wikipedia.org/wiki/Lithuania
+28.05.2021 - 15:40:17 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Luxembourg, https://en.wikipedia.org/wiki/Luxembourg
+28.05.2021 - 15:40:18 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Latvia, https://en.wikipedia.org/wiki/Latvia
+28.05.2021 - 15:40:19 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Macau, https://en.wikipedia.org/wiki/Macau
+28.05.2021 - 15:40:20 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Saint Martin, https://en.wikipedia.org/wiki/Saint Martin
+28.05.2021 - 15:40:21 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Morocco, https://en.wikipedia.org/wiki/Morocco
+28.05.2021 - 15:40:22 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Monaco, https://en.wikipedia.org/wiki/Monaco
+28.05.2021 - 15:40:23 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Moldova, https://en.wikipedia.org/wiki/Moldova
+28.05.2021 - 15:40:24 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Madagascar, https://en.wikipedia.org/wiki/Madagascar
+28.05.2021 - 15:40:25 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Maldives, https://en.wikipedia.org/wiki/Maldives
+28.05.2021 - 15:40:27 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Mexico, https://en.wikipedia.org/wiki/Mexico
+28.05.2021 - 15:40:28 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Marshall Islands, https://en.wikipedia.org/wiki/Marshall Islands
+28.05.2021 - 15:40:29 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: North Macedonia, https://en.wikipedia.org/wiki/North Macedonia
+28.05.2021 - 15:40:29 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Mali, https://en.wikipedia.org/wiki/Mali
+28.05.2021 - 15:40:30 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Malta, https://en.wikipedia.org/wiki/Malta
+28.05.2021 - 15:40:31 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Myanmar, https://en.wikipedia.org/wiki/Myanmar
+28.05.2021 - 15:40:32 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Montenegro, https://en.wikipedia.org/wiki/Montenegro
+28.05.2021 - 15:40:32 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Mongolia, https://en.wikipedia.org/wiki/Mongolia
+28.05.2021 - 15:40:33 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Northern Mariana Islands, https://en.wikipedia.org/wiki/Northern Mariana Islands
+28.05.2021 - 15:40:34 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Mozambique, https://en.wikipedia.org/wiki/Mozambique
+28.05.2021 - 15:40:35 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Mauritania, https://en.wikipedia.org/wiki/Mauritania
+28.05.2021 - 15:40:36 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Montserrat, https://en.wikipedia.org/wiki/Montserrat
+28.05.2021 - 15:40:37 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Martinique, https://en.wikipedia.org/wiki/Martinique
+28.05.2021 - 15:40:38 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Mauritius, https://en.wikipedia.org/wiki/Mauritius
+28.05.2021 - 15:40:39 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Malawi, https://en.wikipedia.org/wiki/Malawi
+28.05.2021 - 15:40:40 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Malaysia, https://en.wikipedia.org/wiki/Malaysia
+28.05.2021 - 15:40:41 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Mayotte, https://en.wikipedia.org/wiki/Mayotte
+28.05.2021 - 15:40:41 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Namibia, https://en.wikipedia.org/wiki/Namibia
+28.05.2021 - 15:40:43 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: New Caledonia, https://en.wikipedia.org/wiki/New Caledonia
+28.05.2021 - 15:40:44 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Niger, https://en.wikipedia.org/wiki/Niger
+28.05.2021 - 15:40:45 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Norfolk Island, https://en.wikipedia.org/wiki/Norfolk Island
+28.05.2021 - 15:40:45 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Nigeria, https://en.wikipedia.org/wiki/Nigeria
+28.05.2021 - 15:40:46 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Nicaragua, https://en.wikipedia.org/wiki/Nicaragua
+28.05.2021 - 15:40:47 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Niue, https://en.wikipedia.org/wiki/Niue
+28.05.2021 - 15:40:49 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Netherlands, https://en.wikipedia.org/wiki/Netherlands
+28.05.2021 - 15:40:50 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Norway, https://en.wikipedia.org/wiki/Norway
+28.05.2021 - 15:40:51 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Nepal, https://en.wikipedia.org/wiki/Nepal
+28.05.2021 - 15:40:52 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Nauru, https://en.wikipedia.org/wiki/Nauru
+28.05.2021 - 15:40:53 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: New Zealand, https://en.wikipedia.org/wiki/New Zealand
+28.05.2021 - 15:40:54 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Oman, https://en.wikipedia.org/wiki/Oman
+28.05.2021 - 15:40:55 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Pakistan, https://en.wikipedia.org/wiki/Pakistan
+28.05.2021 - 15:40:56 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Panama, https://en.wikipedia.org/wiki/Panama
+28.05.2021 - 15:40:58 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Pitcairn Islands, https://en.wikipedia.org/wiki/Pitcairn Islands
+28.05.2021 - 15:40:58 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Peru, https://en.wikipedia.org/wiki/Peru
+28.05.2021 - 15:41:00 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Philippines, https://en.wikipedia.org/wiki/Philippines
+28.05.2021 - 15:41:00 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Palau, https://en.wikipedia.org/wiki/Palau
+28.05.2021 - 15:41:02 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Papua New Guinea, https://en.wikipedia.org/wiki/Papua New Guinea
+28.05.2021 - 15:41:03 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Poland, https://en.wikipedia.org/wiki/Poland
+28.05.2021 - 15:41:04 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Puerto Rico, https://en.wikipedia.org/wiki/Puerto Rico
+28.05.2021 - 15:41:05 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: North Korea, https://en.wikipedia.org/wiki/North Korea
+28.05.2021 - 15:41:07 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Portugal, https://en.wikipedia.org/wiki/Portugal
+28.05.2021 - 15:41:07 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Paraguay, https://en.wikipedia.org/wiki/Paraguay
+28.05.2021 - 15:41:08 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Palestine, https://en.wikipedia.org/wiki/Palestine
+28.05.2021 - 15:41:09 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: French Polynesia, https://en.wikipedia.org/wiki/French Polynesia
+28.05.2021 - 15:41:10 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Qatar, https://en.wikipedia.org/wiki/Qatar
+28.05.2021 - 15:41:11 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Réunion, https://en.wikipedia.org/wiki/Réunion
+28.05.2021 - 15:41:12 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Romania, https://en.wikipedia.org/wiki/Romania
+28.05.2021 - 15:41:14 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Russia, https://en.wikipedia.org/wiki/Russia
+28.05.2021 - 15:41:15 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Rwanda, https://en.wikipedia.org/wiki/Rwanda
+28.05.2021 - 15:41:16 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Saudi Arabia, https://en.wikipedia.org/wiki/Saudi Arabia
+28.05.2021 - 15:41:17 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Sudan, https://en.wikipedia.org/wiki/Sudan
+28.05.2021 - 15:41:18 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Senegal, https://en.wikipedia.org/wiki/Senegal
+28.05.2021 - 15:41:19 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Singapore, https://en.wikipedia.org/wiki/Singapore
+28.05.2021 - 15:41:20 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: South Georgia, https://en.wikipedia.org/wiki/South Georgia
+28.05.2021 - 15:41:21 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Svalbard and Jan Mayen, https://en.wikipedia.org/wiki/Svalbard and Jan Mayen
+28.05.2021 - 15:41:22 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Solomon Islands, https://en.wikipedia.org/wiki/Solomon Islands
+28.05.2021 - 15:41:23 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Sierra Leone, https://en.wikipedia.org/wiki/Sierra Leone
+28.05.2021 - 15:41:24 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: El Salvador, https://en.wikipedia.org/wiki/El Salvador
+28.05.2021 - 15:41:25 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: San Marino, https://en.wikipedia.org/wiki/San Marino
+28.05.2021 - 15:41:27 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Somalia, https://en.wikipedia.org/wiki/Somalia
+28.05.2021 - 15:41:28 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Saint Pierre and Miquelon, https://en.wikipedia.org/wiki/Saint Pierre and Miquelon
+28.05.2021 - 15:41:29 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Serbia, https://en.wikipedia.org/wiki/Serbia
+28.05.2021 - 15:41:30 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: South Sudan, https://en.wikipedia.org/wiki/South Sudan
+28.05.2021 - 15:41:31 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: São Tomé and Príncipe, https://en.wikipedia.org/wiki/São Tomé and Príncipe
+28.05.2021 - 15:41:32 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Suriname, https://en.wikipedia.org/wiki/Suriname
+28.05.2021 - 15:41:33 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Slovakia, https://en.wikipedia.org/wiki/Slovakia
+28.05.2021 - 15:41:35 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Slovenia, https://en.wikipedia.org/wiki/Slovenia
+28.05.2021 - 15:41:36 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Sweden, https://en.wikipedia.org/wiki/Sweden
+28.05.2021 - 15:41:37 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Eswatini, https://en.wikipedia.org/wiki/Eswatini
+28.05.2021 - 15:41:38 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Sint Maarten, https://en.wikipedia.org/wiki/Sint Maarten
+28.05.2021 - 15:41:39 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Seychelles, https://en.wikipedia.org/wiki/Seychelles
+28.05.2021 - 15:41:40 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Syria, https://en.wikipedia.org/wiki/Syria
+28.05.2021 - 15:41:41 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Turks and Caicos Islands, https://en.wikipedia.org/wiki/Turks and Caicos Islands
+28.05.2021 - 15:41:42 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Chad, https://en.wikipedia.org/wiki/Chad
+28.05.2021 - 15:41:43 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Togo, https://en.wikipedia.org/wiki/Togo
+28.05.2021 - 15:41:44 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Thailand, https://en.wikipedia.org/wiki/Thailand
+28.05.2021 - 15:41:45 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Tajikistan, https://en.wikipedia.org/wiki/Tajikistan
+28.05.2021 - 15:41:46 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Tokelau, https://en.wikipedia.org/wiki/Tokelau
+28.05.2021 - 15:41:47 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Turkmenistan, https://en.wikipedia.org/wiki/Turkmenistan
+28.05.2021 - 15:41:48 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Timor-Leste, https://en.wikipedia.org/wiki/Timor-Leste
+28.05.2021 - 15:41:49 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Tonga, https://en.wikipedia.org/wiki/Tonga
+28.05.2021 - 15:41:50 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Trinidad and Tobago, https://en.wikipedia.org/wiki/Trinidad and Tobago
+28.05.2021 - 15:41:51 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Tunisia, https://en.wikipedia.org/wiki/Tunisia
+28.05.2021 - 15:41:53 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Turkey, https://en.wikipedia.org/wiki/Turkey
+28.05.2021 - 15:41:54 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Tuvalu, https://en.wikipedia.org/wiki/Tuvalu
+28.05.2021 - 15:41:55 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Taiwan, https://en.wikipedia.org/wiki/Taiwan
+28.05.2021 - 15:41:56 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Tanzania, https://en.wikipedia.org/wiki/Tanzania
+28.05.2021 - 15:41:57 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Uganda, https://en.wikipedia.org/wiki/Uganda
+28.05.2021 - 15:41:58 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Ukraine, https://en.wikipedia.org/wiki/Ukraine
+28.05.2021 - 15:41:59 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: United States Minor Outlying Islands, https://en.wikipedia.org/wiki/United States Minor Outlying Islands
+28.05.2021 - 15:42:00 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Uruguay, https://en.wikipedia.org/wiki/Uruguay
+28.05.2021 - 15:42:01 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: United States, https://en.wikipedia.org/wiki/United States
+28.05.2021 - 15:42:02 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Uzbekistan, https://en.wikipedia.org/wiki/Uzbekistan
+28.05.2021 - 15:42:03 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Vatican City, https://en.wikipedia.org/wiki/Vatican City
+28.05.2021 - 15:42:04 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Saint Vincent and the Grenadines, https://en.wikipedia.org/wiki/Saint Vincent and the Grenadines
+28.05.2021 - 15:42:05 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Venezuela, https://en.wikipedia.org/wiki/Venezuela
+28.05.2021 - 15:42:06 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: British Virgin Islands, https://en.wikipedia.org/wiki/British Virgin Islands
+28.05.2021 - 15:42:08 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: United States Virgin Islands, https://en.wikipedia.org/wiki/United States Virgin Islands
+28.05.2021 - 15:42:09 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Vietnam, https://en.wikipedia.org/wiki/Vietnam
+28.05.2021 - 15:42:10 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Vanuatu, https://en.wikipedia.org/wiki/Vanuatu
+28.05.2021 - 15:42:11 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Wallis and Futuna, https://en.wikipedia.org/wiki/Wallis and Futuna
+28.05.2021 - 15:42:12 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Samoa, https://en.wikipedia.org/wiki/Samoa
+28.05.2021 - 15:42:13 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Yemen, https://en.wikipedia.org/wiki/Yemen
+28.05.2021 - 15:42:14 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: South Africa, https://en.wikipedia.org/wiki/South Africa
+28.05.2021 - 15:42:15 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Zambia, https://en.wikipedia.org/wiki/Zambia
+28.05.2021 - 15:42:17 | Вызвана функция: __next__, Аргументы: (<__main__.Wiki object at 0x7fa4cb4e4340>,), {}, Возвращает: Zimbabwe, https://en.wikipedia.org/wiki/Zimbabwe
